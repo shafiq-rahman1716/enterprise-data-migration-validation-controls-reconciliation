@@ -1,0 +1,1 @@
+Final validation summary consolidating migration validation results, reconciliation controls, confirmed exceptions, outstanding decisions, and the technical acceptance assessment for Customers, Accounts, and Transactions.
