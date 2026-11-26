@@ -1,0 +1,1 @@
+SQL scripts supporting source and target data profiling, migration-scope validation, business-rule verification, source-to-target reconciliation, controls assessment, and exception investigation for Customers, Accounts, and Transactions.
