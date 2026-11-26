@@ -98,7 +98,7 @@ The engagement involved the following technical capabilities and analytical meth
 - Reconciliation & Controls  
 - Investigation & Documentation
 
-**Detailed Technical Inventory:** Enterprise Data Migration - Technical Methods, Techniques & Outcomes  
+**Detailed Technical Inventory:** [Enterprise Data Migration — Technical Methods, Techniques & Outcomes](09-technical-methods-and-outcomes/08%20Technical%20Methods%2C%20Techniques%20%26%20Outcomes.docx)  
 
 This supporting document provides a detailed breakdown of the technologies, SQL techniques, validation methods, controls, and documentation used throughout the engagement, including where they were applied and the corresponding findings and outcomes.
 
